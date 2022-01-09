@@ -13,25 +13,25 @@ _ Khái niệm về web
 _ Cách làm 1 trang web
 
 3. Khái niệm web 
-Giao diện: HTML,CSS ( Hyper text marked language ) (Cascade style sheet)
+# Giao diện: HTML,CSS ( Hyper text marked language ) (Cascade style sheet)
     + Chữ, nút bấm, thanh trượt, thanh tìm kiếm, logo, hình ảnh 
     + Màu chữ, màu nền, cỡ chữ, kiểu chữ, vị trí các thẻ, bố cục trang web  -> style 
-Chức năng: JS ( Ngôn ngữ lập trình )
+# Chức năng: JS ( Ngôn ngữ lập trình )
     + Like, Chia sẻ bài viết, Đăng bài, Tìm kiếm 
     + Chọn font chữ, chuyển hướng  
-Devtool: Dùng để gỡ lỗi 
-Trình dịch Visual Studio Code : 
+# Devtool: Dùng để gỡ lỗi 
+# Trình dịch Visual Studio Code : 
     + Dịch các mã html,css,js thành 1 trang web  
     + Nhắc code  
     + Nhớ keyword 
-Cài đặt các extensions: 
+# Cài đặt các extensions: 
     + HTML snippets: Nhắc các thẻ html 
     + Live server: Chạy code trực tiếp mà k cần lưu lại  
-Phân biệt folder và file 
+# Phân biệt folder và file 
     + folder chứa nhiều file, các file nằm bên trong gọi là con 
     + file : teenFFile.phần mở rộng (html,css,js) 
-Tạo file index.html (bắt buộc) -- public -> deploy 
-Các thẻ html:
+# Tạo file index.html (bắt buộc) -- public -> deploy 
+# Các thẻ html:
     + p : Thẻ tạo ra các đoạn văn 
     + button: Tạo ra các nút bấm 
     + img : Tạo ảnh gồm 2 thuộc tính src - nguồn ảnh, alt - hiển thị khi ảnh bị lỗi
