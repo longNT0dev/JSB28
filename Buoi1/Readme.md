@@ -1,15 +1,13 @@
 1. Rules 
-_ Làm bài tập đầy đủ và phải gửi vào tối thứ 6 
-_ Ở trên lớp phải mở cam và tập trung nghe giảng  
-_ Có câu hỏi các bạn có thể mở mic để trả lời 
-_ Bật mic hỏi ngay khi phần kiến thức đó k hiểu 
-_ Mỗi buổi học sẽ chọn ra 2 bạn : review kiến thức buổi trước + trình bày kiến thức mới được yêu cầu tìm hiểu ( 3 buổi )
-_ Xem lại kiến thức + btvn ở trên 1 cái link trên zalo 
++ Làm bài tập đầy đủ và phải gửi vào tối thứ 6 
++ Ở trên lớp phải mở cam và tập trung nghe giảng  
++ Có câu hỏi các bạn có thể mở mic để trả lời 
++ Bật mic hỏi ngay khi phần kiến thức đó k hiểu 
++ Mỗi buổi học sẽ chọn ra 2 bạn : review kiến thức buổi trước + trình bày kiến thức mới được yêu cầu tìm hiểu ( 3 buổi )
++ Xem lại kiến thức + btvn ở trên 1 cái link trên zalo 
 
 
-
-* Kiến thức buổi học 
-
+ * Kiến thức buổi học
 2. Tổng quan khóa học 
 _ Khái niệm về web 
 _ Cách làm 1 trang web
@@ -39,7 +37,7 @@ Các thẻ html:
     + img : Tạo ảnh gồm 2 thuộc tính src - nguồn ảnh, alt - hiển thị khi ảnh bị lỗi
     + a : Thẻ link dùng để chuyển hướng có thuộc tính href dùng để chuyển hướng
     + h1-h6 : Thẻ tiêu đề hỗ trợ SEO 
-4. BTVN 
+* BTVN 
 Sử dụng kiến thức được học tạo 1 trang giới thiệu bản thân
     + Bức ảnh có thể bấm để sang trang facebook của mình 
     + Các đoan text giới thiệu thông tin cá nhân
@@ -48,5 +46,5 @@ Sử dụng kiến thức được học tạo 1 trang giới thiệu bản thâ
 
 5. Kiến thức cần tự tìm hiểu để thuyết trình: 
 Link tự học: https://www.w3schools.com/html/default.asp
- + Tìm hiểu id, class là gì ? (html)
- + Tìm hiểu cách để thay đổi màu chữ cũng như màu nền (css)
++ Tìm hiểu id, class là gì ? (html)
++ Tìm hiểu cách để thay đổi màu chữ cũng như màu nền (css)
