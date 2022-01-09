@@ -47,6 +47,6 @@ _ Sử dụng kiến thức được học tạo 1 trang giới thiệu bản th
 
 
 * Kiến thức cần tự tìm hiểu để thuyết trình: 
-Link tự học: https://www.w3schools.com/html/default.asp
-_ Tìm hiểu id, class là gì ? (html)
-_ Tìm hiểu cách để thay đổi màu chữ cũng như màu nền (css)
+_Link tự học: https://www.w3schools.com/html/default.asp
+ + Tìm hiểu id, class là gì ? (html)
+ + Tìm hiểu cách để thay đổi màu chữ cũng như màu nền (css)
