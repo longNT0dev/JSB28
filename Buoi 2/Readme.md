@@ -6,12 +6,9 @@
     + margin-top, margin-bottom, margin-left,margin-right
     + Tương tự cho padding
   3. Phân biệt class, id và tên thẻ 
-    + class: 1 thẻ có thể có nhiều class 
-    + Ví dụ : <p class="set-color set-background"></p> => Thẻ p có 2 class là set-color và set-background
-    -> class có thể giúp tái sử dụng lại những đoạn css đã viết
-    + Ví dụ như có 2 thẻ đều muốn có màu đỏ thì chỉ cần cho 2 thẻ đều có class set-color chẳng hạn 
-    + id: 1 thẻ chỉ có thể có 1 id duy nhất 
-    + Ví dụ: <p id="name"></p> => Thẻ p có 1 id là name
+    + class: 1 thẻ có thể có nhiều class. Ví dụ : <p class="set-color set-background"></p> => Thẻ p có 2 class là set-color và set-background
+    -> class có thể giúp tái sử dụng lại những đoạn css đã viết. Ví dụ như có 2 thẻ đều muốn có màu đỏ thì chỉ cần cho 2 thẻ đều có class set-color chẳng hạn 
+    + id: 1 thẻ chỉ có thể có 1 id duy nhất. Ví dụ: <p id="name"></p> => Thẻ p có 1 id là name
     -> Thường dùng để chọn thẻ trong js là chính. Ít khi dùng để style css
     + Tên thẻ: Áp dụng lên các thẻ có tên giống nhau
   4. Cách style cho 1 thẻ (gồm 3 cách)
