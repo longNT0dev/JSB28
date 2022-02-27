@@ -20,7 +20,7 @@ Ví dụ: let i = 0
    + Phép trừ - 
    + Phép chia lấy dư %. Ví dụ 5 % 2 = 1 
 -> Một số trường hợp đặc biệt cần lưu ý tránh sai (Number + String) -> String -> Ưu tiên string hơn 
-                                                  (String - String) -> NaN, 
+                                                  (String - String) -> NaN/Number (Nếu String đó có khả năng chuyển đổi sang số) 
                                                   (String * String) -> NaN/Number (Nếu String đó có khả năng chuyển đổi sang số)   
                                                         Ví dụ: "5"*"5" = 25, "hello"*"5" = NaN 
             
