@@ -40,7 +40,7 @@ if(a > 0) {
     console.log("a là số dương")
 }else if (a < 0){ 
     console.log("a là số âm")
-}else {  // Các trường hợp còn lại ví dụ a = 0 hoặc a không phải là số 
+}else {  // Các trường hợp còn lại ví dụ a == 0 hoặc a không phải là số 
     console.log("a không phải số dương cũng không phải số âm")
 }
 -> Đoạn lệnh này sẽ vào nhánh "a là số dương" do a > 0 trả về giá trị true 
