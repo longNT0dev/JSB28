@@ -33,7 +33,7 @@ Ví dụ: let i = 0
    + Nhỏ hơn bằng <=         
 5. Câu lệnh điều kiện if..else if...else 
    + Các phép so sánh sẽ trả về các giá trị true/false 
-   + Câu lệnh được thực hiện theo nhanh nào phụ thuộc vào giá trị true/false này 
+   + Câu lệnh được thực hiện theo nhánh nào phụ thuộc vào giá trị true/false này 
 Ví dụ : Kiểm tra 1 số dương hay âm 
 let a = 5
 if(a > 0) { 
